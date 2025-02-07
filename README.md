@@ -8,3 +8,4 @@ Current (and Prior) Research Projects:
 4. Development of Stock and ETF Screening Application
 
 Why do I do this? So I can afford enough money for fishing gear, plus math is cool.
+Reach me at evangibbs717@gmail.com
