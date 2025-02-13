@@ -1,5 +1,5 @@
 Hello! I am Evan Gibbs - a mathematics student at York College of Pennsylvania.
-I am broadly interested in geometry, topology, and analysis, including the intersection of these topics in applied mathematics.
+I am broadly interested in mathematical biology, geometry, and topology, and especially the intersection of these topics.
 
 Current (and Prior) Research Projects:
 1. Manifold Learning in Drosophila melanogaster
