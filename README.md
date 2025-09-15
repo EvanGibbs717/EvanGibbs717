@@ -1,5 +1,5 @@
 Hello! I am Evan Gibbs - a mathematics student at York College of Pennsylvania.
-I am interested in mathematical biology, and I want to use mathematics to both understand and better this world. In particular, I enjoy mathematical ecology, focusing on ties to conservation, managmement strategies, as well epidemiology.  I also enjoy learning various forms of pure mathematics including geometry, topology, analysis, and combinatorics. 
+I am interested in mathematical biology, and I want to use mathematics to both understand and better this world. In particular, I enjoy mathematical ecology, focusing on ties to conservation, management strategies, as well as epidemiology.  I also enjoy learning various forms of pure mathematics including geometry, topology, analysis, and combinatorics. 
 
 Current (and Prior) Research Projects and Interests:
 1. Optimal Control for Dengue Prevention by Biological Mosquito Control (Current)
