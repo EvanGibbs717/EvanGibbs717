@@ -6,7 +6,7 @@ Current (and Prior) Research Projects and Interests:
 2. Manifold Learning in Drosophila melanogaster (Current)
 3. Quadratic Form Representations of Integers via Theta Series (My Undergrad Thesis I am currently working on)
 4. Discrete Modeling of an Aquaponics System (Prior)
-5. Development of Stock and ETF Screening Application (Prior)
+
 
 Why do I do this? So I can afford enough money for fishing gear, plus math and nature are cool.
 Reach me at evangibbs717@gmail.com
