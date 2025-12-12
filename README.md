@@ -3,7 +3,7 @@ I am interested in mathematical biology, and I want to use mathematics to both u
 
 Current (and Prior) Research Projects and Interests:
 1. Optimal Control for Dengue Prevention by Biological Mosquito Control (Current)
-2. Manifold Learning in Drosophila melanogaster (Current)
+2. Manifold Learning in Drosophila melanogaster via Wasserstein Metric (Subtly the Gaussian-Hellinger Kantorovich metric!) (Current)
 3. Positive, Definite Quadratic Form Representations of Positive Integers - Analytically and Algebraically (My Undergrad Thesis I am currently working on)
 4. Discrete Modeling of an Aquaponics System (Prior)
 
